@@ -8,6 +8,7 @@ namespace GitPractice
         {
             Console.WriteLine("Hello World! modified");
             Console.WriteLine("Hello World! modified");
+            Console.WriteLine("Hello World! modified");
         }
     }
 }
